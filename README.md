@@ -1,4 +1,4 @@
-# EXIF 编辑器（高级版）
+# EXIF 编辑器
 
 一个功能完整的可视化图片 EXIF 信息编辑工具，使用 Python、Tkinter 和 piexif 开发。
 
@@ -197,7 +197,7 @@ MIT License
 
 ---
 
-# EXIF Editor (Advanced Version)
+# EXIF Editor
 
 A full-featured visual image EXIF metadata editing tool, developed with Python, Tkinter, and piexif.
 
